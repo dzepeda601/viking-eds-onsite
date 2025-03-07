@@ -2,9 +2,11 @@
   "mappings": [
     "/content/viking-xwalk/:/",
     "/content/viking-xwalk/configuration:/.helix/config.json",
-    "/content/viking-xwalk/metadata:/metadata.json"
+    "/content/viking-xwalk/metadata:/metadata.json",
+    "/content/dam/viking-xwalk/media/:/media/"
   ],
   "includes": [
-    "/content/viking-xwalk/"
+    "/content/viking-xwalk/",
+    "/content/dam/viking-xwalk/media/"
   ]
 }
