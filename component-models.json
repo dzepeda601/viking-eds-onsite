@@ -205,14 +205,14 @@
         "component": "reference",
         "valueType": "string",
         "name": "image",
-        "label": "Image",
+        "label": "Logo Image",
         "multi": false
       },
       {
         "component": "text",
         "valueType": "string",
         "name": "imageAlt",
-        "label": "Alt",
+        "label": "Logo Image Alt",
         "value": ""
       }
     ]
