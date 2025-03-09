@@ -3,10 +3,12 @@
     "/content/viking-xwalk/:/",
     "/content/viking-xwalk/configuration:/.helix/config.json",
     "/content/viking-xwalk/metadata:/metadata.json",
-    "/content/dam/viking-xwalk/media/:/media/"
+    "/content/dam/viking-xwalk/media/:/media/",
+    "/content/dam/viking-xwalk/images/:/images/"
   ],
   "includes": [
     "/content/viking-xwalk/",
-    "/content/dam/viking-xwalk/media/"
+    "/content/dam/viking-xwalk/media/",
+    "/content/dam/viking-xwalk/images/"
   ]
 }
