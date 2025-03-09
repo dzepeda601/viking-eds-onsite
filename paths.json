@@ -9,7 +9,6 @@
   "includes": [
     "/content/viking-xwalk/",
     "/content/dam/viking-xwalk/media/",
-    "/content/dam/viking-xwalk/images/",
-    "/content/dam/viking-xwalk/media/viking-homepage-video.mp4"
+    "/content/dam/viking-xwalk/images/"
   ]
 }
