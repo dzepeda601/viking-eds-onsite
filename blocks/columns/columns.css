@@ -1,6 +1,9 @@
 .columns > div {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 50px 0;
 }
 
 .columns img {
@@ -19,15 +22,40 @@
   display: block;
 }
 
+.columns h5 {
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin: 0;
+}
+
+.columns p {
+  margin: 10px 0;
+  color: #595959;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.columns p.button-container a {
+  width: 100%;
+  max-width: unset;
+}
+
 @media (width >= 900px) {
   .columns > div {
     align-items: center;
     flex-direction: unset;
-    gap: 24px;
+    gap: 3rem;
+    text-align: left;
   }
 
   .columns > div > div {
-    flex: 1;
     order: unset;
+  }
+
+  .columns p.button-container a {
+    width: auto;
   }
 }
