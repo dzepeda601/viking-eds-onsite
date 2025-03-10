@@ -148,10 +148,24 @@
         "multi": false
       },
       {
+        "component": "text",
+        "valueType": "string",
+        "name": "imageAlt",
+        "label": "Alt",
+        "value": ""
+      },
+      {
         "component": "richtext",
         "name": "text",
         "value": "",
-        "label": "Text",
+        "label": "title",
+        "valueType": "string"
+      },
+      {
+        "component": "richtext",
+        "name": "text",
+        "value": "",
+        "label": "link",
         "valueType": "string"
       }
     ]
