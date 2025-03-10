@@ -151,21 +151,21 @@
         "component": "text",
         "valueType": "string",
         "name": "imageAlt",
-        "label": "Alt",
+        "label": "Image Alt",
         "value": ""
       },
       {
         "component": "richtext",
         "name": "text",
         "value": "",
-        "label": "title",
+        "label": "Title",
         "valueType": "string"
       },
       {
         "component": "richtext",
         "name": "text",
         "value": "",
-        "label": "link",
+        "label": "Link",
         "valueType": "string"
       }
     ]
