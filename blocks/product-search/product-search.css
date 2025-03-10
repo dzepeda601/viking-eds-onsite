@@ -27,6 +27,10 @@
   gap: 18px;
 }
 
+.product-search .search-container label {
+  display: none;
+}
+
 .product-search .search-container select {
   border-radius: 3px;
   background-color: #fff;
