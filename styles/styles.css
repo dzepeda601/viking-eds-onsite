@@ -194,6 +194,11 @@ a:hover {
   margin: 0 !important;
 }
 
+.button.primary:hover {
+  background-color: #810724 !important;
+  border-color: #770722 !important;
+}
+
 a.button:any-link,
 button {
   box-sizing: border-box;
