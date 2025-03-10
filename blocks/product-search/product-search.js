@@ -1,5 +1,4 @@
 export default function decorate(block) {
-  console.log("product search block: ", block);
   block.querySelector(':scope > div:first-of-type').classList.add('title');
 
   const div = document.createElement('div');
