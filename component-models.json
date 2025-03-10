@@ -112,6 +112,26 @@
           {
             "name": "Highlight",
             "value": "highlight"
+          },
+          {
+            "name": "Full Width",
+            "value": "full-width"
+          },
+          {
+            "name": "Border Top",
+            "value": "border-top"
+          },
+          {
+            "name": "Border Bottom",
+            "value": "border-bottom"
+          },
+          {
+            "name": "Deep Blue Background",
+            "value": "deep-blue-bg"
+          },
+          {
+            "name": "Grey Background",
+            "value": "grey-bg"
           }
         ]
       }

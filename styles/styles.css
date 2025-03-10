@@ -237,13 +237,13 @@ main img {
 
 /* sections */
 main > .section {
-  margin: 40px 0;
+  margin: 0;
 }
 
 main > .section > div {
   max-width: 1400px;
   margin: auto;
-  padding: 0 24px;
+  padding: 0 15px;
 }
 
 main > .section:first-of-type {
@@ -252,7 +252,7 @@ main > .section:first-of-type {
 
 @media (width >= 900px) {
   main > .section > div {
-    padding: 0 32px;
+    padding: 0 24px;
   }
 }
 
@@ -262,4 +262,25 @@ main .section.highlight {
   background-color: var(--light-color);
   margin: 0;
   padding: 40px 0;
+}
+
+main .section.full-width > div {
+  max-width: 2400px;
+  padding: 0;
+}
+
+main .section.deep-blue-bg {
+  background-color: #142640;
+}
+
+main .section.grey-bg {
+  background-color: rgba(0, 0, 0, 0.45);
+}
+
+main .section.border-top {
+  border-top: 1px solid #ccc;
+}
+
+main .section.border-bottom {
+  border-bottom: 1px solid #ccc;
 }
