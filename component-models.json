@@ -197,8 +197,15 @@
       {
         "component": "reference",
         "valueType": "string",
-        "name": "video",
-        "label": "Video",
+        "name": "video (desktop)",
+        "label": "Video (Desktop)",
+        "multi": false
+      },
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "video (mobile)",
+        "label": "Video (Mobile)",
         "multi": false
       },
       {
