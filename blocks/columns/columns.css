@@ -1,3 +1,7 @@
+.columns {
+  background-color: yellow;
+}
+
 .columns > div {
   display: flex;
   flex-direction: column;
