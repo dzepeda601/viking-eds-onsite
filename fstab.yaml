@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p128727-e1256870.adobeaemcloud.com//bin/franklin.delivery/adobedevxsc/viking-xwalk/main"
+    url: "https://author-p128727-e1256870.adobeaemcloud.com//bin/franklin.delivery/dzepeda601/viking-eds-onsite/main"
     type: "markup"
     suffix: ".html"
