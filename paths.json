@@ -1,14 +1,14 @@
 {
   "mappings": [
-    "/content/viking-xwalk/:/",
-    "/content/viking-xwalk/configuration:/.helix/config.json",
-    "/content/viking-xwalk/metadata:/metadata.json",
-    "/content/dam/viking-xwalk/media/:/media/",
-    "/content/dam/viking-xwalk/images/:/images/"
+    "/content/viking-eds-onsite/:/",
+    "/content/viking-eds-onsiteconfiguration:/.helix/config.json",
+    "/content/viking-eds-onsite/metadata:/metadata.json",
+    "/content/dam/viking-eds-onsite/media/:/media/",
+    "/content/dam/viking-eds-onsite/images/:/images/"
   ],
   "includes": [
-    "/content/viking-xwalk/",
-    "/content/dam/viking-xwalk/media/",
-    "/content/dam/viking-xwalk/images/"
+    "/content/viking-eds-onsite/",
+    "/content/dam/viking-eds-onsite/media/",
+    "/content/dam/viking-eds-onsite/images/"
   ]
 }
